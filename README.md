@@ -2,9 +2,9 @@
 Simple beep wrapper for windows, language is C++
 
 ## Syntax example
-###### Beep [Frequency] 
+#### Beep [Frequency] 
 ### or
-###### beep [Frequency] [Time]
+#### beep [Frequency] [Time]
 
 ## Examples
 ### Simple example
