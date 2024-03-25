@@ -13,7 +13,7 @@ echo beep
 beep 450
 ```
 
-### For example
+### Example with cycle
 ```bat
 @echo off
 setlocal enabledelayedexpansion
