@@ -26,11 +26,13 @@ for /L %%i in (0,10,3000) do (
 endlocal
 ```
 
-## Setup to ur Windows
+
+
+### Setup beep command
 ```bat
 copy "beep.exe" "C:\Windows\System32\"
 ```
 
-## Then you can use beep command in cmd
+#### Then you can use beep command in cmd
 
 
