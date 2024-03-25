@@ -28,7 +28,7 @@ endlocal
 
 
 
-### Setup beep command
+## Setup beep command
 ```bat
 copy "beep.exe" "C:\Windows\System32\"
 ```
